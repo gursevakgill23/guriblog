@@ -1,0 +1,27 @@
+#carouselExampleCaptions{
+	padding: 20px;
+	padding-bottom: 20px;
+}
+#carouselExampleCaptions img{
+	height: 550px;
+}
+
+p{
+	font-weight: normal;
+}
+h1{
+	font-weight:bold;
+	background-color: black;
+	color:white;
+
+}
+p,ul,li{
+	font-size: 20px;
+}
+.img-fluid{
+    margin: 10px auto 20px;
+    display: block;
+}
+.form-control{
+	width: 450px;
+}
